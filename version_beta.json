@@ -1,7 +1,8 @@
 {
-  "version": "0.2.0.0",
+  "version": "0.3.0.0",
   "notes": [
-        "• Fixed (hopefully) a bug where the Update All Selected installed everything regardless if Selected",
-		"• Added a checkbox for easy selecting."
+        "• Added a checkbox in the header, allowing to select/deselect all elements at once.",
+		"• Added a settings button, which the user can decide to keep or delete desktop shortcuts.",
+		"• Various tweaks."
   ]
 }
