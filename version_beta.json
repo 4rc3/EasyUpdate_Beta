@@ -1,0 +1,6 @@
+{
+  "version": "1.0.6",
+  "notes": [
+        "• Fixed a bug where the version number would show incorrect version."
+  ]
+}
