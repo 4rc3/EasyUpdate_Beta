@@ -1,7 +1,7 @@
 {
-  "version": "0.2.0.0",
+  "version": "0.4.0.0",
   "notes": [
-        "• Fixed (hopefully) a bug where the Update All Selected installed everything regardless if Selected",
-		"• Added a checkbox for easy selecting."
+        "• Added a About button.",		
+		"• Minor tweaks."
   ]
 }
